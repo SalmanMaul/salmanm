@@ -1,0 +1,8 @@
+link hosting
+http://salmann.epizy.com
+
+link hosting admin
+http://salmann.epizy.com/admin/
+
+link hosting resepsionis
+http://salmann.epizy.com/resepsionis/
